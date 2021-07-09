@@ -1,0 +1,2 @@
+# LN-AC
+This is a created AC for fivem where you can use it for free it is very handful and you can use it very well you can customise it with your server  ENGLISH: Welcome to the LN-AC installation file. Remember that this script could have, a few bugs, as it was recently refactored. If you find something that isn't working, feel free to open a Issue ticket on my GitHub. I hope you enjoy every functionalities that this script has. This AC is free, but it detects a lot more things that other AC's that are paid.  
